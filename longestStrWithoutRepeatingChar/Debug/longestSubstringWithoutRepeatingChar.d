@@ -1,0 +1,2 @@
+longestSubstringWithoutRepeatingChar.d: \
+ ../longestSubstringWithoutRepeatingChar.cpp

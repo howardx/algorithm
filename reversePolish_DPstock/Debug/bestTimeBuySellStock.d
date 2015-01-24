@@ -1,0 +1,1 @@
+bestTimeBuySellStock.d: ../bestTimeBuySellStock.cpp

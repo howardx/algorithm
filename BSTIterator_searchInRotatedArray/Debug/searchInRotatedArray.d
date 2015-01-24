@@ -1,0 +1,1 @@
+searchInRotatedArray.d: ../searchInRotatedArray.cpp
