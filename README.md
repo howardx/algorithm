@@ -1,2 +1,2 @@
-# algorithm in C++
+# algorithm in C/C++
 
